@@ -1,0 +1,52 @@
+Dataset Link (Kaggle) = https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2?select=Garbage+Classification
+# Note : The dataset were divided into 70% for Training, 15% for Validation, 15% for Testing
+
+battery
+- training = 661
+- validation = 142
+- testing = 142
+
+biological
+- training = 689
+- validation = 148
+- testing = 148
+
+cardboard
+- training = 1356
+- validation = 291
+- testing = 291
+
+clothes
+- training = 3727
+- validation = 799
+- testing = 799
+
+glass
+- training = 2614
+- validation = 561
+- testing = 560
+
+metal
+- training = 1390
+- validation = 298
+- testing = 298
+
+paper
+- training = 1464
+- validation = 314
+- testing = 314
+
+plastic
+- training = 1611
+- validation = 346
+- testing = 345
+
+shoes
+- training = 1383
+- validation = 297
+- testing = 297
+
+trash
+- training = 487
+- validation = 105
+- testing = 105
